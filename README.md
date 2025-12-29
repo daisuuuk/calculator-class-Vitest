@@ -43,6 +43,15 @@
 ### 使用技術
 
  - HTML/CSS/TypeScript/Vitest(Jest可能)/vercel
+
+## テスト
+
+### 観点
+
+- 正常系
+- 異常系
+- 境界値
+- 分岐
  
 ### 工夫点
 
