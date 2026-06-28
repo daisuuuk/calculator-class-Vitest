@@ -4,6 +4,10 @@
 
 ※本アプリでの対応は実装・テストのみ
 
+## 試験書
+
+URL: https://docs.google.com/spreadsheets/d/1nzRY28IhZumY3qnvG_eKR7fy6XilbFP2PJNBqB_tKso/edit?usp=drivesdk
+
 ## 要求整理
 
 ### 必須要件
